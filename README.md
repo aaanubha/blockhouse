@@ -1,6 +1,6 @@
 # blockhouse
 
-# Candlestick and Chart Dashboard
+# Dashboard
 
 This repository contains a project with a **Django backend** and a **Next.js frontend**. The frontend is a dashboard that includes various charts (Candlestick, Line, Bar, and Pie charts) with data fetched from the Django backend API.
 
