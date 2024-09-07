@@ -25,20 +25,25 @@ This repository contains a project with a **Django backend** and a **Next.js fro
       node_modules
    get-pip.py    # Script to install pip (optional)
 
+```
+
 
 ## How to run
 
 ## Backend
-
+```
 cd backend
 python3 -m venv env
 source env/bin/activate  # On Mac/Linux
 pip install -r requirements.txt
 python3 manage.py runserver
+````
 
 
 ## Frontend
+```
 cd frontend
 npm install
 npm run dev
+```
 
